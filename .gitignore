@@ -1,3 +1,8 @@
 
 *.sqlite
 .vs/Music_Classification/v17/workspaceFileList.bin
+*.json
+*.h5
+*.npy
+*.zip
+*.cls

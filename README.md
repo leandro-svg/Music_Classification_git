@@ -2,8 +2,6 @@
 Project for machine learning course
 
 
-Step 0 : Download the code 
- git clone https://github.com/mbolleng2303/Music_Classification.git
 
 Step 1 : install requirements 
 
